@@ -57,7 +57,7 @@ Progressive Web Apps
 
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
 
-## Tutorials
+## 指南
 
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
