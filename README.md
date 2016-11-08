@@ -9,6 +9,7 @@ Progressive Web Apps
 
 ##示例
 
+* [pwa rocks](https://pwa.rocks/)
 * [List of Progressive Web Apps](https://operasoftware.github.io/pwa-list/)
 
 * [Flipkart Lite](http://www.flipkart.com)
@@ -63,6 +64,12 @@ Progressive Web Apps
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 
+## Service work
+
+* [The Service Worker Cookbook](https://serviceworke.rs/)
+* [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
+* [sw-precache](https://github.com/GoogleChrome/sw-precache)
+
 ## 文章
 
 * [什么是Progressive Web App?](http://ljinkai.github.io/2016/04/27/progressive-web-app/)
@@ -78,3 +85,6 @@ Progressive Web Apps
 * [Progressive Web Apps: the future of Apps](https://dev.opera.com/blog/pwa-taipei/) (18:57)
 * [Progressive web apps and what's next for mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile?utm_source=twitter&utm_medium=webplatform&utm_campaign=YTknRussell-jj) (22:39)
 * [Interview with Google Software Engineer Alex Russell - O'Reilly Fluent Conference 2016](https://www.youtube.com/watch?v=vMg9sycUnm4&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&index=36) (11:21)
+* [Intro to Progressive Web Apps (Video)](https://www.youtube.com/watch?v=x7cfLDFVyHo)
+* [Progressive Web Apps with Angular (Video)](https://www.youtube.com/watch?v=wLWVASD0dvU)
+* [Progressive Web Apps with Polymer (Video)](https://www.youtube.com/watch?v=g7f1Az5fxgU)
