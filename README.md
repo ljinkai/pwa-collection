@@ -69,6 +69,11 @@ Progressive Web Apps
 * [The Service Worker Cookbook](https://serviceworke.rs/)
 * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [sw-precache](https://github.com/GoogleChrome/sw-precache)
+* [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) - A collection of service worker tools for offlining runtime requests
+* [web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js
+
+## 工具
+* [lighthouse](https://github.com/GoogleChrome/lighthouse) - PWA调优工具
 
 ## 文章
 
