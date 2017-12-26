@@ -87,6 +87,7 @@ Progressive Web Apps
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
 * [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
+* [sw-toolbox实践介绍](https://blog.nfz.moe/archives/sw-toolbox-practice.html)
 
 ## 视频
 
