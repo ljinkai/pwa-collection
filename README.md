@@ -4,10 +4,11 @@ Progressive Web Apps collection
 Progressive Web Apps
 简称PWA,是一种接近原生用户体验的渐进增强的web-app.从浏览器演进而来，沉浸式的体验，改进web的性能低下等。
 
-##官网
+## 官网
+
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 
-##示例
+## 示例
 
 * [pwa rocks](https://pwa.rocks/)
 * [List of Progressive Web Apps](https://operasoftware.github.io/pwa-list/)
@@ -64,6 +65,7 @@ Progressive Web Apps
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 * [Firebase cloud messaging SDK](https://firebase.googleblog.com/2016/10/announcing-firebase-cloud-messaging-for.html) - You don't need to encrypt the message and identify the browser (on web)
+* [Service Worker 应用详解](https://lzw.me/a/pwa-service-worker.html#3.4.8 error %E5%92%8C unhandledrejection %E4%BA%8B%E4%BB%B6) 非常详细
 
 ## Service work
 
