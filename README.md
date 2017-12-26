@@ -65,7 +65,7 @@ Progressive Web Apps
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 * [Firebase cloud messaging SDK](https://firebase.googleblog.com/2016/10/announcing-firebase-cloud-messaging-for.html) - You don't need to encrypt the message and identify the browser (on web)
-* [Service Worker 应用详解](https://lzw.me/a/pwa-service-worker.html#3.4.8 error %E5%92%8C unhandledrejection %E4%BA%8B%E4%BB%B6) 非常详细
+* [Service Worker 应用详解](https://lzw.me/a/pwa-service-worker.html) 非常详细
 
 ## Service work
 
